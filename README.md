@@ -5,8 +5,8 @@ Este repositório contém minhas soluções para desafios de programação de di
 ## Status Atual
 
 - **Beecrowd:** 03 problemas resolvidos
-- **HackerRank:** 02 problemas resolvidos
-- **LeetCode:** 0 problemas resolvidos
+- **HackerRank:** 04 problemas resolvidos
+- **LeetCode:** 01 problemas resolvidos
 
 
 
