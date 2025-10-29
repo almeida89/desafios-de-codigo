@@ -28,7 +28,7 @@ Continuo fazendo isso até que ambas as listas acabem — e não haja mais *carr
 ## 🧮 Resultado
 
 <p align="center">
-  <img src="../img/somadoisnumeros.png" alt="Saída do código" width="600"/>
+  <img src="https://github.com/almeida89/desafios-de-codigo/blob/main/leetcode/02_Add_Two_Numbers/img/addtwonumbers.png" alt="Saída do código" width="600"/>
 </p>
 
 <p align="center">
