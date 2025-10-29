@@ -9,5 +9,5 @@ Quando vi esse problema pela primeira vez, lembre de como faço soma no papel: c
 Minha abordagem foi simples e direta. Criei um nó "dummy" (fictício) para facilitar a construção da lista resultado - assim não preciso me preocupar com casos especiais no começo. Depois, fiz um loop que percorre as duas listas simultaneamente. Em cada passo, pego o valor de cada nó (ou zero se a lista já acabou), somo esses valores junto com o carry da iteração anterior. O resultado dessa soma me dá dois números importantes: o dígito que vou guardar (usando o resto da divisão por 10) e o novo carry (usando a divisão inteira por 10). Crio um novo nó com esse dígito e avanço para os próximos nós das listas. Continuo fazendo isso até que ambas as listas acabem. E não haja mais carry pendente.
 
 ## Resultado
-![Saída do código](https://imgur.com/a/w7CaKEd)
+![Saída do código](../02_Add_Two_Numbers/img/add-two-numbers.jpg)
 
