@@ -28,7 +28,7 @@ Continuo fazendo isso até que ambas as listas acabem — e não haja mais *carr
 ## 🧮 Resultado
 
 <p align="center">
-  <img src="./img/somadoisnumeros.png" alt="Saída do código" width="600"/>
+  <img src="../img/somadoisnumeros.png" alt="Saída do código" width="600"/>
 </p>
 
 <p align="center">
